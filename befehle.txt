@@ -2,3 +2,8 @@ to run :
 
 g++ Aufgabe.cpp -o Aufgabe
 ./Aufgabe
+
+to commit:
+git add .
+git commit -m"" -m""
+git push(git pull)
