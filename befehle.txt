@@ -1,0 +1,4 @@
+to run :
+
+g++ Aufgabe.cpp -o Aufgabe
+./Aufgabe
